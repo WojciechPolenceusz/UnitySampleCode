@@ -2,7 +2,7 @@ using NUnit.Framework;
 
 namespace Backend.Tests
 {
-    public class CharacterTests
+    public class CharacterStatisticsTests
     {
         private const int INSTANCE_ID = 0;
 
