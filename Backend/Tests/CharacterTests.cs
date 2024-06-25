@@ -45,7 +45,7 @@ namespace Backend.Tests
          TestCase(5, 3, 2, 5),
          TestCase(5, 5, 4, 5),
          TestCase(5, 1, 2, 3)]
-        public void _02_DealDamageAndHeal(int maxHp, int currentHp, int heal, int expectedHp)
+        public void _02_Heal(int maxHp, int currentHp, int heal, int expectedHp)
         {
             var statistics = new CharacterStatistics(currentHp, maxHp, 0);
             var character = CreateCharacter(statistics);
