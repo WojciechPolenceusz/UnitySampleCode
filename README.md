@@ -1,2 +1,2 @@
 # UnitySampleCode
-Somme sample classes without Unity Files, just code.
+Some sample classes without Unity Files, just code.
